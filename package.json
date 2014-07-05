@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/zirman/xboloweb",
   "dependencies": {
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "compression": "~1.0.8"
   },
   "devDependencies": {
     "gulp": "^3.8.5",
