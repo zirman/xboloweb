@@ -1,0 +1,41 @@
+TODO:
+
+
+General:
+
+Start Screen
+Plane Selection
+Aviary Selection
+Weapon Selection
+
+Monitization
+In app perchases of aviaries and upgrades
+
+Convert game data to JSON
+Loading of resources from JSON files
+Loading Aircraft Data
+Loading Ground Geometry
+Loading Graphics From Files
+
+Environment:
+Time of day gradient changes
+Cloud environment effects
+Sun
+Rain
+Lightning
+
+Land objects:
+Houses
+Bushes
+Craters
+Trenches
+Churches
+Fires
+Fields
+
+AI
+Aggressive AI
+States:
+Evade
+Attack
+Patrol

@@ -28,7 +28,6 @@ app.use(compression());
 // Enigma Machine App.
 
 app.use(enigmaServer.middleware);
-app.use('/enigma', express.static(path.join(__dirname, '../enigma')));
 
 // Static content
 

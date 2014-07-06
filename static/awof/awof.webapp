@@ -1,0 +1,20 @@
+{
+  "version": "0.0",
+  "name": "AWOF",
+  "description": "Action game.",
+  "icons": {
+    "16": "/img/awof-icon-16.png",
+    "48": "/img/awof-icon-48.png",
+    "128": "/img/awof-icon-128.png"
+  },
+  "developer": {
+    "name": "Robert Chrzanowski",
+    "url": "http://xbolo.org/"
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+  }
+ },
+  "default_locale": "en",
+  "fullscreen": "true"
+}
